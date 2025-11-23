@@ -1,12 +1,36 @@
-# React + Vite
+# 🎧 boAtClone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **React clone of the boAt website** – featuring a responsive navbar, product categories, search bar, and icons.  
+Built for **learning, practice, and UI development fun!**  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ Responsive navigation bar using **Flexbox**  
+- ✅ Clean list items with **no bullets** and **gap spacing**  
+- ✅ Smooth **hover transitions** on links  
+- ✅ Search input bar  
+- ✅ Placeholder icons for **Cart** & **Profile**  
+- ✅ Mobile-friendly structure (basic responsiveness)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 💻 Demo
+
+_You can host it on GitHub Pages or Vercel later for a live demo._
+
+---
+
+## 🛠 Technologies
+
+- **React** – UI components  
+- **JavaScript (ES6+)** – frontend logic  
+- **CSS3** – styling and transitions  
+- **HTML5** – semantic markup  
+
+---
+
+## 📂 Folder Structure
+
+
